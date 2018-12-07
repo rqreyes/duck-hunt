@@ -1,0 +1,3 @@
+# Duck Hunt
+
+JavaScript Project
